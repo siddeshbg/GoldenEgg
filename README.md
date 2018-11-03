@@ -1,5 +1,6 @@
 # GoldenEgg
 [![Build Status](https://travis-ci.org/siddeshbg/GoldenEgg.svg?branch=master)](https://travis-ci.org/siddeshbg/GoldenEgg)
+[![Coverage Status](https://coveralls.io/repos/github/siddeshbg/GoldenEgg/badge.svg?branch=master)](https://coveralls.io/github/siddeshbg/GoldenEgg?branch=master)
 
 Don't blast the golden egg
 
