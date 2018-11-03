@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from GoldenEgg import Eggs
+from src.GoldenEgg import Eggs
 
 
 def main():
