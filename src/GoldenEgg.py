@@ -1,5 +1,6 @@
 import random
 
+
 class Eggs:
 
     def __init__(self, count):
