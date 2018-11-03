@@ -3,4 +3,4 @@ python:
   - "3.6"
 script:
   - pytest
-  - py.test -v --cov=src test
+  - pytest -v --cov=src test
