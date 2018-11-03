@@ -1,4 +1,6 @@
 # GoldenEgg
+[![Build Status](https://travis-ci.org/siddeshbg/GoldenEgg.svg?branch=master)](https://travis-ci.org/siddeshbg/GoldenEgg)
+
 Don't blast the golden egg
 
 This is a simple Game. There will be 3 eggs and one of them contains gold coin.
